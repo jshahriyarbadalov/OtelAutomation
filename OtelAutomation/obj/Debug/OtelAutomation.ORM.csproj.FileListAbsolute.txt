@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\bin\Debug\OtelAutomation.dll
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\bin\Debug\OtelAutomation.pdb
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\obj\Debug\OtelAutomation.ORM.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\obj\Debug\OtelAutomation.ORM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\obj\Debug\OtelAutomation.dll
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation\obj\Debug\OtelAutomation.pdb

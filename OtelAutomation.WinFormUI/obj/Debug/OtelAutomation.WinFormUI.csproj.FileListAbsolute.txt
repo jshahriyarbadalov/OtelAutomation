@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\bin\Debug\OtelAutomation.WinFormUI.exe.config
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\bin\Debug\OtelAutomation.WinFormUI.exe
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\bin\Debug\OtelAutomation.WinFormUI.pdb
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\bin\Debug\OtelAutomation.dll
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\bin\Debug\OtelAutomation.pdb
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.CashForm.resources
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.Properties.Resources.resources
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.csproj.CopyComplete
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.exe
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.pdb
+C:\Users\User\source\repos\OtelAutomation\OtelAutomation.WinFormUI\obj\Debug\OtelAutomation.WinFormUI.UnitTypeForm.resources
